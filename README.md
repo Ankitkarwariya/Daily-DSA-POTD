@@ -36,3 +36,13 @@ The goal is to maintain **consistency**, strengthen **DSA fundamentals**, and st
 ---
 
 ## 📁 Repository Structure
+daily-dsa-potd/
+│
+├── README.md
+├── January/
+│ ├── 01_problem_name.cpp
+│ ├── 02_problem_name.cpp
+│
+├── February/
+│
+└── progress.md
